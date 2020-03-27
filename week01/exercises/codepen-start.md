@@ -2,8 +2,7 @@
 
 ## Help
 
-- Discord channel
-- Forum
+- Quenstions to this exercise
 
 ## 1. Sign up to Codepen
 
@@ -24,18 +23,18 @@
 
 ## 3. Play around
 
-- Modify the background color of the `yellow` buttons to be `lime`:
+### Modify the background color of the `yellow` buttons to be `lime`:
 
 ![modify background to lime](assets/codepen-play01.png)
 
-- Modify the background color of the second button only to be `white`:
+### Modify the background color of the second button only to be `white`:
 
 ![modify background to white](assets/codepen-play02.png)
 
-- Modify the color of the border for the Dog's button to be `blue`:
+### Modify the color of the border for the Dog's button to be `blue`:
 
 ![modify border to blue](assets/codepen-play03.png)
 
-- Add a fifth button with the text: `Human` that has `purple` borders and `yellow` background
+### Add a fifth button with the text: `Human` that has `purple` borders and `yellow` background
 
 ![add 5th](assets/codepen-play04.png)
