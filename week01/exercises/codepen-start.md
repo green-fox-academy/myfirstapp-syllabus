@@ -23,6 +23,11 @@
 
 ## 3. Play around
 
+- Feel free to play around with anything
+- Try to change some numbers to see what they do
+- Try to change `left` to `right` or `right` to `left`
+- Follow the small exercises below
+
 ### Modify the background color of the `yellow` buttons to be `lime`:
 
 ![modify background to lime](assets/codepen-play01.png)

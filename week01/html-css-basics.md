@@ -4,20 +4,25 @@
 
 - Discuss first any questions in your study group
 - If you feel totally lost, try to look at these [helping materials](#materials)
-- For each exercise there's an exercises specific channel where you might find your answer or ask it if there's none
+- For each exercise there's an exercises specific questions page where you might find your answer or ask it if there's none
 
 ## Workshop
 
 - [Register and first exercise on Codepen](exercises/codepen-start.md)
 - [Create a new pen and use headers](exercises/headers.md)
 - [Velox Zerda Lagopus](exercises/velox-zerda-lagopus.md)
+- [Directions](exercises/directions.md)
+- [Directions Again](exercises/directions-again.md)
+- [Lists and texts](exercises/lists-and-texts.md)
+- [Simple but stylish form](exercises/simple-form.md)
+- [A complicated form](exercises/complicated-form.md)
 
 ## Materials
 
 - [HTML Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics)
 
-#### HTML
+### HTML
 
 | Material                                                                                                |  Time |
 | :------------------------------------------------------------------------------------------------------ | ----: |
@@ -28,14 +33,12 @@
 | [HTML Tutorial for Beginners 05 - Head and Body Tag](https://www.youtube.com/watch?v=mNRzWMH5xK0)       |  7:22 |
 | [HTML Tutorial for Beginners 06 - Headings and Text](https://www.youtube.com/watch?v=XxZPrn1VFTc)       |  8:18 |
 | [HTML Tutorial for Beginners 08 - Default Browser Styles](https://www.youtube.com/watch?v=OwC4xNWihoM)  |  3:40 |
-| [HTML Tutorial for Beginners 09 - The img Tag](https://www.youtube.com/watch?v=g6xsNHnAmlE)             |  6:12 |
-| [HTML Tutorial for Beginners 10 - HTML Links](https://www.youtube.com/watch?v=f8pAb3IuECk)              | 12:24 |
 | [HTML Tutorial for Beginners 11 - HTML Lists](https://www.youtube.com/watch?v=HeQvQEiGMKk)              |  8:05 |
 | [HTML Tutorial for Beginners 13 - The div Tag](https://www.youtube.com/watch?v=-XQlr727A8w)             |  4:51 |
 | [HTML Tutorial for Beginners 14 - ID's and Classes](https://www.youtube.com/watch?v=9UNmumTYuq8)        |  8:13 |
 | [HTML Tutorial for Beginners 15 - Adding CSS to HTML](https://www.youtube.com/watch?v=Tc4IsPFB01E)      |  9:33 |
 
-#### CSS
+### CSS
 
 | Material                                                                                                     |  Time |
 | :----------------------------------------------------------------------------------------------------------- | ----: |
@@ -44,11 +47,7 @@
 | [CSS Tutorial For Beginners 04 - Basic CSS Syntax](https://www.youtube.com/watch?v=1CqHws4WZ-M)              |  8:01 |
 | [CSS Tutorial For Beginners 08 - Targeting Elements with CSS](https://www.youtube.com/watch?v=f7c7bTrqXic)   |  4:28 |
 | [CSS Tutorial For Beginners 09 - Targeting Classes and ID's](https://www.youtube.com/watch?v=hrqo_GOwHHs)    |  7:24 |
-| [CSS Tutorial For Beginners 10 - CSS Conflicts & the Cascade](https://www.youtube.com/watch?v=4oPvurjpcNw)   |  8:04 |
 | [CSS Tutorial For Beginners 11 - Inheritance](https://www.youtube.com/watch?v=ZMpaebQ3n6A)                   |  8:47 |
-| [CSS Tutorial For Beginners 12 - Selector Specificty](https://www.youtube.com/watch?v=lZ6R_eYYxoE)           | 10:17 |
-| [CSS Tutorial For Beginners 14 - Targeting Multiple Elements](https://www.youtube.com/watch?v=3SOf8gZlBhI)   |  4:40 |
-| [CSS Tutorial For Beginners 15 - Descendant Selectors](https://www.youtube.com/watch?v=84KE7OwMjYY)          |  6:22 |
 | [CSS Tutorial For Beginners 36 - The Box Model](https://www.youtube.com/watch?v=Qx-yzUBqatQ)                 |  9:27 |
 | [CSS Tutorial For Beginners 37 - Margins](https://www.youtube.com/watch?v=ggo0di5L6sA)                       | 10:38 |
 | [CSS Tutorial For Beginners 38 - Padding](https://www.youtube.com/watch?v=4YF-eaX4P0k)                       |  4:41 |

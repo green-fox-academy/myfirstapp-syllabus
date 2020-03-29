@@ -1,9 +1,15 @@
 # Velox Zerda Lagopus
 
+## Help
+
+- Quenstions to this exercise
+
+## The Overview
+
 - Create a new pen on Codepen to work with
 - You'll create this step by step (but you can give it a try on your own):
 
-![velox zerda lagopus](assets/01.png)
+![velox zerda lagopus](assets/01-05.png)
 
 ## Step by step
 
@@ -13,8 +19,7 @@ For this exercise you can choose to use almost any tags that can have a content.
 
 ![html structure](assets/01-01.png)
 
-There is another way to use colors than using the name of it. There are many-many colors and not all of them are named. So instead of the color name `red`, you can use the HEX value for the red color that is `#FF0000`. This way you can use any color a computer can display. The hashmark `#` indicates that this is a HEX color value. The computer can display the colors by mixing tiny lights of `red`, `green` and `blue` for every pixel on your screen. The first 2 characters of the rest is the amount of `red` to be used, then 2 for `green` and 2 for `blue`. RGB, right? Each of them are a 2 digit hexadecimal number, so the lowest value is `00` (meaning no need any of this part in the mix) and `FF` is the highest (put in everything you got). But you can easily find color codes on the internet with a quick Google search.
-
+There is another way to use colors than using the name of it. There are many-many colors and not all of them are named. So instead of the color name `red`, you can use the HEX value for the red color that is `#FF0000`. This way you can use any color a computer can display. The hashmark `#` indicates that this is a HEX color value. The computer can display the colors by mixing tiny lights of `red`, `green` and `blue` for every pixel on your screen. The first 2 characters of the numbers are the amount of `red` to be used, then 2 for `green` and 2 for `blue`. RGB, right? Each of them are a 2 digit hexadecimal number, so the lowest value is `00` (meaning no need any of this part in the mix) and `FF` is the highest (put in everything you got). But you can easily find color codes on the internet with a quick Google search.
 The property to change the color of the text is called `color`.
 
 ```css
