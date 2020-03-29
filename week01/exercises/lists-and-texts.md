@@ -7,7 +7,6 @@
 ## The Overview
 
 - Create a new pen on Codepen to work with
-- This exercise uses the same styling as the previous one, feel free to copy over any code you need from there
 - Create the new HTML structure and apply the necessary styles
 
 ![lists and texts](assets/04.png)

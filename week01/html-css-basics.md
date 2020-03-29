@@ -8,12 +8,20 @@
 
 ## Workshop
 
+### Trying out Codepen
+
 - [Register and first exercise on Codepen](exercises/codepen-start.md)
 - [Create a new pen and use headers](exercises/headers.md)
+
+### Basic elements and their styling
+
 - [Velox Zerda Lagopus](exercises/velox-zerda-lagopus.md)
 - [Directions](exercises/directions.md)
 - [Directions Again](exercises/directions-again.md)
 - [Lists and texts](exercises/lists-and-texts.md)
+
+### Form elements and their styling
+
 - [Simple but stylish form](exercises/simple-form.md)
 - [A complicated form](exercises/complicated-form.md)
 

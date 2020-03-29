@@ -1,5 +1,18 @@
 # HTML and CSS advanced
 
+## Help
+
+- Discuss first any questions in your study group
+- If you feel totally lost, try to look at these [helping materials](#materials)
+- For each exercise there's an exercises specific questions page where you might find your answer or ask it if there's none
+
+## Workshop
+
+### Warmup with links and images
+
+### Simple layout exercises
+
+### Complicated layout exercises
 
 ## Materials
 
