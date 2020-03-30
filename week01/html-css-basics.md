@@ -29,7 +29,7 @@
 
 - [HTML Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics)
-- [Material Review Topics](html-css-advanced-topics.md)
+- [Material Review Topics](html-css-basics-topics.md)
 
 ### HTML
 
