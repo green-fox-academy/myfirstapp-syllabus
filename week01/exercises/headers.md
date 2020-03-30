@@ -2,7 +2,7 @@
 
 ## Help
 
-- Quenstions to this exercise
+- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/15)
 
 ## 1. Create a new pen
 
