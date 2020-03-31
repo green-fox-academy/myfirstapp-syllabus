@@ -19,7 +19,7 @@ layout: default
 
 ### Other form inputs
 
-You'll need `radio` buttons and `checkbox`es in this exercise along with a `textaera`.
+You'll need `radio` buttons and `checkbox`es in this exercise along with a `textarea`.
 
 The `radio` and the `checkbox` as another `type` of `input`. All form inputs need a `name` property (that we didn't use before) so the user's input can get a codename. This is useful when submitting the form and the data arrives at the web application, but it is also needed for the `radio`s to be grouped together (so when you click on one the previously selected gets deselected).
 
