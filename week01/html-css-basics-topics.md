@@ -1,7 +1,12 @@
+---
+layout: default
+---
 # HTML & CSS Material Review Topics
 
 ## First part
 
+- Introduction
+- Layout of the 4 hours
 - Codepen (registration, new pen, fork pen)
 - Anatomy of an HTML element
 - Nesting elements
@@ -53,11 +58,11 @@
 
 ## Fourth part
 
-- Stackoverflow
-- Stackoverflow for teams
 - Exercise list and example
 - Help on exercises
 - Help on topics
+- Stackoverflow
+- Stackoverflow for teams
 - What you'll receive tomorrow?
   - Discord invitation link in an email from us
   - Stackoverflow invitation link in an email from Stackoverflow

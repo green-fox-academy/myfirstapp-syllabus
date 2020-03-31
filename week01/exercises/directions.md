@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Directions
 
 ## Help
 
-- Quenstions to this exercise
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:directionsfirst/page:1/)
 
 ## The Overview
 

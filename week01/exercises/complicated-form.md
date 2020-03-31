@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # A complicated form
 
 ## Help
 
-- Quenstions to this exercise
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:complicatedform/page:1/)
 
 ## The Overview
 

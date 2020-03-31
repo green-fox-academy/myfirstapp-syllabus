@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # HTML and CSS advanced
 
 ## Help

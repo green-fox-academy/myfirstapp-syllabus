@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Register and first exercise on Codepen
 
 ## Help
 
-- Quenstions to this exercise
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:codepenfirst/page:1/)
 
 ## 1. Sign up to Codepen
 

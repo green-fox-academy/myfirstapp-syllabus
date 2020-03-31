@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Velox Zerda Lagopus
 
 ## Help
 
-- Quenstions to this exercise
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:velox/page:1/)
 
 ## The Overview
 
