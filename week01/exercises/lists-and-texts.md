@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Lists and texts
 
 ## Help

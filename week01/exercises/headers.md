@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Create a new pen and use headers
 
 ## Help

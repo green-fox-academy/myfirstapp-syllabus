@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Simple but stylish form
 
 ## Help
