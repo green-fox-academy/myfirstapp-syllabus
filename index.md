@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# StayAtHome Coding Camp
-
 This is the collection of materials and workshop exercises for the #StayAtHome Coding Camp by Green Fox Academy.
 
 ## Weekly Schedule
