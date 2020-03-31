@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Velox Zerda Lagopus
 
 ## Help

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Register and first exercise on Codepen
 
 ## Help

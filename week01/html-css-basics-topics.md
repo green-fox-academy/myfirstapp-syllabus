@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # HTML & CSS Material Review Topics
 
 ## First part
