@@ -2,7 +2,7 @@
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/12)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:codepenfirst/page:1/)
 
 ## 1. Sign up to Codepen
 
