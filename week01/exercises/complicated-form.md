@@ -2,7 +2,7 @@
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/14)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:complicatedform/page:1/)
 
 ## The Overview
 

@@ -2,7 +2,7 @@
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/9)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:velox/page:1/)
 
 ## The Overview
 
