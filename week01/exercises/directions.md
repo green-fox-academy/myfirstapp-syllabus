@@ -121,3 +121,5 @@ Or you can use the `strong` inline tag to surround your text which is bold by de
 - The font size is `24px`
 
 ![add font style](assets/02-05.png)
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/KKpEBKq)
