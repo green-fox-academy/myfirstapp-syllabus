@@ -32,6 +32,8 @@ To place a simple image on a webpage, use the `img` tag in HTML with the `src` a
 
 You can even use your own images if you upload them to an image sharing website for example [Imgur](https://imgur.com). Click on the New Post on the top left and Choose a Photo from your computer. When the image appears, right click on the image and select Copy Image Address. You can insert this into the `src` attribute on Codepen. Or you can look for free images from any website and copy the address the same way. [Pixabay](https://pixabay.com/) contains a lot of beautiful free images you can use.
 
+![links](assets/images-copy.png)
+
 If the image is not loaded for some reason (the url changed or the image is removed) you can show a replacement text which also helps for viewers who just can't see the pictures (eg. reading the website for people who can't see). This text can be set with the `alt` attribute.
 
 ```html
