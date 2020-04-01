@@ -30,3 +30,8 @@ Lets try it:
   - You should see the result in a new line
 
 ![console-output](../assets/ff-console-inputs.png)
+
+> Later you will want to print something into the `console` to see if everything
+> works well. For this you will need to use `console.log(something)`.
+> For example console.log(5) in your code will print 5 into this console.
+> We use it pretty often during development.
