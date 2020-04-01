@@ -27,9 +27,6 @@
 
 ### Starting up VS Code
 
-- Setup
-- Basic html?
-- Terminal?
 
 ### Starting up GitHub Desktop
 

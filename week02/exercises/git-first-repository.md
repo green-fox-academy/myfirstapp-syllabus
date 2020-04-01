@@ -4,6 +4,8 @@
 
 - [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/#)
 
+## Step by step
+
 Run the downloaded GitHub Desktop application and sign in with your GitHub account
 
 ![GitHub Desktop sign in](../assets/my-first-repository/git-desktop-signin.png)
