@@ -23,8 +23,7 @@
 ## Interact with the user (events)
 
 - [What are events?](./exercises/events-intro.md)
-- [Simple exercises](./exercises/simple-event-listeners.md)
-- [Complex exercises](./exercises/events-listeners-with-logic.md)
+- [Complex exercises](./exercises/event-listeners-with-logic.md)
 
 ## All together
 
