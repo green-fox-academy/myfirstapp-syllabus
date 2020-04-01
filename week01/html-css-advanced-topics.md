@@ -12,6 +12,11 @@ layout: default
 - `img`
 - Links
 - `a`
+  - `target` attribute
+  - `name` attribute
+  - `:active` selector
+  - `:visited` selector
+  - `:hover` selector
 - `display` property
   - `block`
   - `inline`
