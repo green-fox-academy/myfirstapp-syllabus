@@ -6,7 +6,11 @@
 
 ## Introduction
 
-- [Invitation link to GitHub Classroom](https://classroom.github.com/a/3FUHTGKJ)
+There is an [Invitation link to GitHub Classroom](https://classroom.github.com/a/1aIPRJVL), which generates you a new repository.
+  - First you should authorize the organization
+  - And Accept the assignment
+
+After these steps and a 'loading screen', you will able to see a page like that:
 
 ![after invitation link](../assets/classroom/classroom-after-inv.png)
 
@@ -21,7 +25,7 @@
 ### Clone the repository and open it
 > You can clone the generated repository via GitHub Desktop. Now you don't want to create a new repository, you would like to use an existing one.
 
-Find the `Clone Repository` option, and clone what was generated inside the **green-fox-academy** organization
+Find the `Clone Repository` option, and clone what was generated inside the **green-fox-academy** organization.
 You will find something like this, clone it:
 
 ![clone window](../assets/classroom/classroom-clone.png)
@@ -38,7 +42,7 @@ Open the `README.md` file
 - Push these commits to the origin
 - Check: Is there a green tick or a red cross for your commit in your origin repository?
   
-If you see a yellow dot more than a minute just refresh the page
+If you see a yellow dot more than a minute just refresh the page.
 
 ![yellow dot](../assets/classroom/classroom-yellowdot.png)
 

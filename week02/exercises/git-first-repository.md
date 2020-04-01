@@ -37,8 +37,6 @@ Now go back to the Github Desktop app, and open the repository's folder with Vis
   - Name it as `text.txt`
   - Type in your favourite movie's title and save it
 
-![new file with vscode](../assets/my-first-repository/git-vscode-newfile.png) 
-
 In the Github Desktop app you can see the changes
 
 ![commit](../assets/my-first-repository/git-desktop-changes.png) 
