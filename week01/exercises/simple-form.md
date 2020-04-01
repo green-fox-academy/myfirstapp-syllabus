@@ -68,3 +68,5 @@ The HTML boxes usually have sharp corners, but the `border-radius` CSS property 
 ### Round the corners for the `input`s and the `button`
 
 ![form structure](assets/05-04.png)
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/zYGyqOW)

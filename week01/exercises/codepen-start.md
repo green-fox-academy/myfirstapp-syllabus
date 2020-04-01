@@ -46,3 +46,5 @@ layout: default
 ### Add a fifth button with the text: `Human` that has `purple` borders and `yellow` background
 
 ![add 5th](assets/codepen-play04.png)
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/NzNwov)

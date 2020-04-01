@@ -16,7 +16,7 @@ layout: default
     - https://cdn.pixabay.com/photo/2020/03/27/18/01/switzerland-4974469_1280.jpg
     - https://cdn.pixabay.com/photo/2020/03/27/21/26/costa-rica-4975038_1280.jpg
   - The width of them are set to `300px` with `50px` margin
-  - When the mouse over `400px` with `0` margin
+  - When the mouse is over `400px` with `0` margin
 
 ![links](assets/images-02.png)
 
@@ -32,7 +32,7 @@ To place a simple image on a webpage, use the `img` tag in HTML with the `src` a
 
 You can even use your own images if you upload them to an image sharing website for example [Imgur](https://imgur.com). Click on the New Post on the top left and Choose a Photo from your computer. When the image appears, right click on the image and select Copy Image Address. You can insert this into the `src` attribute on Codepen. Or you can look for free images from any website and copy the address the same way. [Pixabay](https://pixabay.com/) contains a lot of beautiful free images you can use.
 
-![links](assets/images-copy.png)
+![links copy address](assets/images-copy.png)
 
 If the image is not loaded for some reason (the url changed or the image is removed) you can show a replacement text which also helps for viewers who just can't see the pictures (eg. reading the website for people who can't see). This text can be set with the `alt` attribute.
 
@@ -70,3 +70,5 @@ So instead fixing the `height`, you can use a `margin` that is removed when the 
 ![links](assets/images-02.png)
 
 Now the other (not hovered) images stay in place.
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/KKpExmE)

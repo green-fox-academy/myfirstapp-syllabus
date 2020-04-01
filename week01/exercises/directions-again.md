@@ -14,3 +14,5 @@ layout: default
 - Create the new HTML structure and apply the necessary styles
 
 ![directions](assets/03.png)
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/yLNwqyP)
