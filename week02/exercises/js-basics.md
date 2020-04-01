@@ -9,6 +9,22 @@ however their usage or syntax can slightly vary.
 > you learn in the console. Later on we will see other options to run/execute
 > JavaScript code.
 
+## Comments
+
+In programming languages we have the opportunity to add comments to our code.
+This makes easier to understand complicated parts or for example to add notes
+during learning. Commented lines start with `//` or are between `/*` and `*/`.
+The commented code wont get executed, it is only for the reader.
+
+```js
+// this is an inline comment, the browser will ignore it
+
+/*
+  this is a multiline comment
+  the browser will ignore the whole block
+*/
+```
+
 ## Variables
 
 In the previous part you have entered some *value* in the console, then made
@@ -33,7 +49,7 @@ let myVariable = 5;
 ```
 
 > **Important**: If you try to declare two variables with the same name
-> (redeclaration), then you will get an error. In this case you need to avoid
+> (redeclaration), then you will get an error. In this case you need to ignore
 > the *let* keyword or use another variable name.
 
 After a variable has been declared you can change its value any time with the
