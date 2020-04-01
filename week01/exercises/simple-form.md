@@ -25,7 +25,7 @@ The `form` HTML tag is to hold together a form element like this. The forms can 
 This is not very informative on its own, so usually it comes together with a `label` that can tell the user what to type in. Each element in the HTML structure can have an `id` property. This is a unique identifier for the element, so two elements can't have the same one. The label can be connected to the input in code using the `for` attribute with the value of the input's `id`.
 
 ```html
-<label for="nameInputField">
+<label for="nameInputField">Name:</label>
 <input type="text" id="nameInputField">
 ```
 
