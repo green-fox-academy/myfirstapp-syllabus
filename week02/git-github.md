@@ -28,13 +28,13 @@
 ### Starting up VS Code
 
 - Setup
-- Basic html
+- Basic html?
 - Terminal?
 
 ### Starting up GitHub Desktop
 
 - [Your first repository](./exercises/git-first-repository.md)
-- GitHub Classroom
+- [Clone your assignment](./exercises/git-classroom.md)
 - [Webpage with GitHub](./exercises/git-github-io.md)
 
 ## Materials
