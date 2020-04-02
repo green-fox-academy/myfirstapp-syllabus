@@ -9,24 +9,24 @@ layout: default
 - If you feel totally lost, try to look at these [helping materials](#materials)
 - For each exercise there's an exercises specific questions page where you might find your answer or ask it if there's none
 
-## Workshop
+## Workshop Exercises
 
 ### Trying out Codepen
 
-- [Register and first exercise on Codepen](exercises/codepen-start.md)
-- [Create a new pen and use headers](exercises/headers.md)
+- [1. Register and first exercise on Codepen](exercises/codepen-start.md)
+- [2. Create a new pen and use headers](exercises/headers.md)
 
 ### Basic elements and their styling
 
-- [Velox Zerda Lagopus](exercises/velox-zerda-lagopus.md)
-- [Directions](exercises/directions.md)
-- [Directions Again](exercises/directions-again.md)
-- [Lists and texts](exercises/lists-and-texts.md)
+- [3. Velox Zerda Lagopus](exercises/velox-zerda-lagopus.md)
+- [4. Directions](exercises/directions.md)
+- [5. Directions Again](exercises/directions-again.md)
+- [6. Lists and texts](exercises/lists-and-texts.md)
 
 ### Form elements and their styling
 
-- [Simple but stylish form](exercises/simple-form.md)
-- [A complicated form](exercises/complicated-form.md)
+- [7. Simple but stylish form](exercises/simple-form.md)
+- [8. A complicated form](exercises/complicated-form.md)
 
 ## Materials
 

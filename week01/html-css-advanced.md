@@ -9,26 +9,24 @@ layout: default
 - If you feel totally lost, try to look at these [helping materials](#materials)
 - For each exercise there's an exercises specific questions page where you might find your answer or ask it if there's none
 
-## Workshop
-
-> Note: the exercises are going to be available soon.
+## Workshop Exercises
 
 ### Warmup with links and images
 
-- [Links to the web](exercises/links.md)
-- [Images everywhere](exercises/images.md)
-- [Combine images and links with minimal layout](exercises/combine.md)
+- [1. Links to the web](exercises/links.md)
+- [2. Images everywhere](exercises/images.md)
+- [3. Combine images and links with minimal layout](exercises/combine.md)
 
 ### Simple layout exercises
 
-- [Basic flex properties](exercises/basic-flex.md)
-- [Arranging 4 boxes](exercises/arrange-boxes.md)
+- [4. Basic flex properties](exercises/basic-flex.md)
+- [5. Arranging 4 boxes](exercises/arrange-boxes.md)
 
 ### Complicated layout exercises
 
-- [A typical webpage](exercises/typical-webpage.md)
-- [Fixed header](exercises/fixed-header.md)
-- [All together](exercises/all-together.md)
+- [6. A typical webpage](exercises/typical-webpage.md)
+- [7. Fixed header](exercises/fixed-header.md)
+- [8. All together](exercises/all-together.md)
 
 ## Materials
 
