@@ -52,10 +52,10 @@ div {
 
 ![combine html structure](assets/combine-03.png)
 
-Now the only problem left is the that the links are starting next to the images and they are not centered.
+Now the only problem left is that the links are starting next to the images and they are not centered.
 The reason behind the first one is that the links are `inline` elements. If you change them to `block`, they're going to be placed on a new line. Now the `text-align: center` will center the image and the link as well, if you set it for the `section`.
 
-### Make the links to be `block`s and `center` the text in `section`s
+### Change the links to be `block`s and `center` the text in `section`s
 
 ![combine html structure](assets/combine-04.png)
 
