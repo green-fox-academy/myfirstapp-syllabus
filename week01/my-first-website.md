@@ -35,15 +35,15 @@ Though it looks all complicated at first sight, if you look at the whole structu
 
 There are multiple ways of putting text on the image, you already know about positioning the elements. You can use `absolute` position on the title to achieve this (remember, the absolute positioning happens inside a `relative` positioned container). But you can also set an image to the background of any box. In this case you'll have to set the `width` and `height` for the box too, because just like with background colors it is only the background. And the box size is based on the content's size, not on the background's. You can read more about [backgrounds here](https://developer.mozilla.org/en-US/docs/Web/CSS/background).
 
-### Quotes with `„` lower quotation mark
+### Quotes with `”` quotation mark
 
-For this you can use positioning again if you have one element that contains only the `„` sign. You can position that `absolute` inside the grey box.
+For this you can use positioning again if you have one element that contains only the `”` sign. You can position that `absolute` inside the grey box.
 
 But there's more advanced way of doing this. The quotation mark is not really part of the content, so it shouldn't be in the HTML at all. In these cases you can put the sign into the CSS using `pseudo elements`. There are many of them for many use-cases. If you remember `pseudo classes` are selectors for special states (like hover or active) of the elements. The `pseudo elements` are selectors for special parts of the elements. Like the `first-letter` or `first-line`. So you can style them different than the rest of the element. You can [learn about them all here](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements), if you'd like to. But in this exercise we can use the `before` pseudo element. It is an empty and invisible element by default that every HTML element will have before itself. You can set the content of it from CSS (and style it of course), so it is perfect for this scenario. You can use `pseudo elements` in CSS similar to the pseudo classes, just instead of a simple colon `:` character, you need two of them `::` and then the name of the pseudo element.
 
 ```css
 blockquote::before {
-  content: '„';
+  content: '”';
   /* then the styling */
 }
 ```
