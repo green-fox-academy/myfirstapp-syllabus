@@ -5,6 +5,10 @@ layout: default
 
 *Please finish the first part before moving on.*
 
+## Help
+
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/tags:anakin-2/)
+
 ![part 2 top](assets/first-website-top2.png)
 
 - Your task again is to recreate this [website](assets/full-page.png).
