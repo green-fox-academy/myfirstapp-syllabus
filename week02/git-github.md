@@ -27,6 +27,7 @@
 
 ### Starting up VS Code
 
+- [Visual Studio Code first steps](exercises/vscode-firststeps.md)
 
 ### Starting up GitHub Desktop
 

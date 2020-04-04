@@ -41,6 +41,7 @@ Open the `README.md` file
 ### Check it
 - Push these commits to the origin
 - Check: Is there a green tick or a red cross for your commit in your origin repository?
+  - There should be a red cross, because you haven't asnwered the quiz yet.
   
 If you see a yellow dot more than a minute just refresh the page.
 
