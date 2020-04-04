@@ -86,11 +86,8 @@ We install an extension called 'Live Server' which has the advantages of:
 - Open an HTML file to browser from VSCode
 - Don't have to refresh the page all the time, it happens in real time after changes
 
-![live server](./../assets/vscode-firststeps/vscode-liveserver.png)
+![live server](./../assets/vscode-firststeps/vscode-liveserver-install.png)
 
 After installation open with Live Server, and make some more changes, check how it works.
 
 ![open with live server](./../assets/vscode-firststeps/vscode-liveserver2.png)
-
-
-### Export codepen project
