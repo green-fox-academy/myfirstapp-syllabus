@@ -1,4 +1,7 @@
-# GIT and GitHub
+---
+layout: default
+---
+# VS Code and GitHub
 
 > Start to use the GitHub Desktop and Visual Studio Code to simplifies your development workflow.
 > Introduction to version control systems and Git.
@@ -13,14 +16,11 @@
 
 - Sign up to GitHub:
   - Create a GitHub account if you don't have one yet.
-
 - Download GitHub Desktop for your system:
   - [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
   - [Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
-
   - If you are Linux user, GitHub Desktop installation will be a little trickier
     - [How To Get Github Desktop On Ubuntu/Linux Mint](https://youtu.be/Ed_k_pZ4LoY)
-
 - Download Visual Studio Code for your system from [here](https://code.visualstudio.com/download)
 
 ## Workshop
@@ -28,24 +28,23 @@
 ### Starting up VS Code
 
 - [Visual Studio Code first steps](exercises/vscode-firststeps.md)
+- [Download your pens](exercises/download-pens.md)
 
 ### Starting up GitHub Desktop
 
-- [Your first repository](./exercises/git-first-repository.md)
-- [Clone your assignment](./exercises/git-classroom.md)
-- [Webpage with GitHub](./exercises/git-github-io.md)
+- [Your first repository](exercises/git-first-repository.md)
+- [Clone your assignment](exercises/git-classroom.md)
+- [Webpage with GitHub](exercises/git-github-io.md)
+
+### Practice
+
+- [Simplest Selectors](#)
+- [20 boxes](#)
+- [Do the GitHub tutorial](#)
 
 ## Materials
 
-- What is version control?
-- What is a repository?
-- What are the Basics of Git:
-  - Staging
-  - Commit
-  - Push
-  - Cloning
-- What is the `origin` in Git?
-- How could you check the files you've changed?
+- [VS Code and GitHub Material Review Topics](github-topics.md)
 
 | Material                                                                                                       |         Duration |
 | :--------------------------------------------------------------------------------------------------------------| ---------------: |

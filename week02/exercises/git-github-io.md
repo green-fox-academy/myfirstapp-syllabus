@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Webpage with GitHub
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/#)
+- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/github-io)
 
 ## Step by step
 
