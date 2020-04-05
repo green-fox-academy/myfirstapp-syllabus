@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Simple but stylish form
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/13)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:simpleform/page:1/)
 
 ## The Overview
 
@@ -22,7 +25,7 @@ The `form` HTML tag is to hold together a form element like this. The forms can 
 This is not very informative on its own, so usually it comes together with a `label` that can tell the user what to type in. Each element in the HTML structure can have an `id` property. This is a unique identifier for the element, so two elements can't have the same one. The label can be connected to the input in code using the `for` attribute with the value of the input's `id`.
 
 ```html
-<label for="nameInputField">
+<label for="nameInputField">Name:</label>
 <input type="text" id="nameInputField">
 ```
 
@@ -65,3 +68,5 @@ The HTML boxes usually have sharp corners, but the `border-radius` CSS property 
 ### Round the corners for the `input`s and the `button`
 
 ![form structure](assets/05-04.png)
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/zYGyqOW)

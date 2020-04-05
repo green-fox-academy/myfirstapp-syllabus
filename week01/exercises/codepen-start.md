@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Register and first exercise on Codepen
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/12)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:codepenfirst/page:1/)
 
 ## 1. Sign up to Codepen
 
@@ -43,3 +46,5 @@
 ### Add a fifth button with the text: `Human` that has `purple` borders and `yellow` background
 
 ![add 5th](assets/codepen-play04.png)
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/NzNwov)

@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Directions
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/10)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:directionsfirst/page:1/)
 
 ## The Overview
 
@@ -118,3 +121,5 @@ Or you can use the `strong` inline tag to surround your text which is bold by de
 - The font size is `24px`
 
 ![add font style](assets/02-05.png)
+
+## [Solution Pen](https://codepen.io/adamgyulavari/pen/KKpEBKq)

@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Create a new pen and use headers
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/15)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:headers/page:1/)
 
 ## 1. Create a new pen
 

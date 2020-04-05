@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Lists and texts
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/16)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/scope:all/sort:activity-desc/tags:complicatedform,listsandtexts/page:1/)
 
 ## The Overview
 
