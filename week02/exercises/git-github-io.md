@@ -5,7 +5,7 @@ layout: default
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/github-io)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/tags:github-io/)
 
 ## Step by step
 

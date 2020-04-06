@@ -3,7 +3,7 @@ layout: default
 ---
 # VS Code and GitHub
 
-> Start to use the GitHub Desktop and Visual Studio Code to simplifies your development workflow.
+> Start to use the Visual Studio Code to create HTML on your computer and GitHub desktop to put it on the internet.
 > Introduction to version control systems and Git.
 
 ## Help
