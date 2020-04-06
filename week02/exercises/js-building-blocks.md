@@ -1,6 +1,6 @@
 # Basic building blocks in JavaScript
 
-Now lets see how can we do complex application with our variables and types
+Now lets see how can we do complex applications with our variables and types
 
 ## Building blocks
 
@@ -15,35 +15,35 @@ Next you will get familiar with the other 2.
 
 ### Condition
 
-You can make a piece of your code optional, with the `if` statement. It let you
+You can make a piece of your code optional, with the `if` statement. It lets you
 define a condition which your code depends on
 
 ```js
 let myVariable = false;
 if (myVariable === true) {
-  console.log('Hello World!');
+  console.log('The condition has been evaluated to true');
 }
 ```
 
-If you run the above code in the console or ina webpage you will see nothing in
+If you run the above code in the console or in a webpage you will see nothing in
 the console. Please change something to see the desired message in the console.
 
-Our `if` statement gives us more capabilities, we can tell what we want to
-execute if the given condition has been evaluated to false.
+Our `if` statement gives us more capabilities, we can tell what we want to do if
+the given condition has been evaluated to false.
 
 ```js
 let a = 7;
 if (a < 5) {
-  console.log(a * 2);
+  console.log(a / 2);
 } else {
-  console.log(a * 3);
+  console.log(a * 2);
 }
 ```
 
 Questions:
 
 - What will be printed if we run the previous code snippet?
-- What should is change to get 1 printed to the console?
+- What should be changed to get 1 printed to the console?
 
 You can read more about the `if` statement in the [documentation][mdn-if]
 
@@ -62,29 +62,23 @@ And you do this until you have books to move.
 let bookCount = 10;
 
 for (let i = 0; i < bookCount; i++) {
-  // here comes the code which moves to books
+  // here comes the code which moves the books
   // this block will be repeated bookCunt times
 }
 ```
 
-#### Exercise 1
+#### Exercises
 
-Create a loop which prints the numbers from 0-9.
-
-#### Exercise 2
-
-Change the previous loop to print the numbers from 1 to 10.
-
-#### Exercise 3
-
-Print the even numbers between 0 and 20.
+- Create a loop which prints the numbers from 0-9.
+- Change the previous loop to print the numbers from 1 to 10.
+- Print the even numbers between 0 and 20.
 
 ## Functions
 
 Usually there are many repeating code blocks in an application, when we want
 to execute the same code but with different circumstances/environments. Just
-imagine how you pay your bills. The steps are the same you just transfer the
-money to a different bank account ans different money. So the money and the bank
+imagine how you pay your bills. The steps are the same you just transfer
+different amount to different bank accounts. So the amount and the bank
 account are parameters of this activity. In programming languages these
 activities are called functions.
 
@@ -128,13 +122,13 @@ console.log(getGreetingTo('Mark')); // Should print 'Hello Mark!'
 
 ## For loops and arrays
 
-We need to iterate through array pretty often, what do you think how can you do
+We need to iterate through arrays pretty often, what do you think how can you do
 that? As you remember for loops execute something **N** times, so if we want to
 print an array's values we will need to execute the loop `.length` times.
 
 ### Exercise 1
 
-Create a method which get an array as parameter and prints each value in it.
+Create a method which gets an array as parameter and prints each value from it.
 
 ```js
 printValues([0, 3, 6, 7, 9]); // prints the following lines:
@@ -145,7 +139,7 @@ printValues([0, 3, 6, 7, 9]); // prints the following lines:
 //  9
 ```
 
-This is how you solution should look like:
+This is how your solution should look like:
 
 ```js
 let printValues = (array) => {
@@ -165,7 +159,7 @@ let myNumbers = [10, 20, 30, 50, 12];
 
 // here we say, we want to do something with each item
 myNumbers.forEach((number) => {
-  // within the function I can define what I want to do with the items
+  // within the function I can tell what I want to do with the items
   console.log(number);
 });
 ```

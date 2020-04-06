@@ -10,7 +10,7 @@ script into the html document.
 We will need the `script` html tag to associate a JavaScript code with the
 webpage.
 
-The easiest way is to simply put out JS code between the opening and closing tag
+The easiest way is to simply put our JS code between the opening and closing tag
 
 ```html
 <script>
@@ -21,11 +21,11 @@ The easiest way is to simply put out JS code between the opening and closing tag
 If you insert the code above into your html file, and open the page you will see
 the message in the console.
 
-### (Optional) Separated *.js* file
+### Separated *.js* file
 
 In bigger projects the script and html content are usually separated. You can do
-this too. The script tag has another attribute called src which should point to
-a javascript file:
+this too. The script tag has another attribute called `src` which should point
+to a javascript file:
 
 ```html
 <script type="text/javascript" src="./script.js"></script>
@@ -41,4 +41,5 @@ as soon as it finds it. Usually we add the `<script>` tag right before the
 closing `</body>` tag, so the browser can display the html content before starts
 working on the script.
 
-Now add a script to an html document and add two numbers and print the result.
+Now add a script to an html document from within you print the sum of two
+numbers.

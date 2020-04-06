@@ -34,7 +34,8 @@ method to solve the next exercises
     text: "This block was added using JavaScript's jQuery library. How awesome!"
   };
   ```
-- Add a new block at the end of the page, the `title` should be in a heading, the `text` should be in a paragraph block
+- Add a new block at the end of the page, the `title` should be in a heading,
+  the `text` should be in a paragraph block
 
 [fourth-html-exercise]: https://github.com/green-fox-academy/stayathome-syllabus/blob/master/week01/exercises/lists-and-texts.md
 [jquery-append]: https://api.jquery.com/append/

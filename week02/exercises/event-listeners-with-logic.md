@@ -11,8 +11,7 @@
 
 ## Exercise 2 (Optional)
 
-- Now you previous application changes the buttons' colors whenever the input
+- Now your previous application changes the buttons' color whenever the input
   vale has changed and you clicked on the last button
-- Change the behavior and by ignoring all the clicks after the first one. So
-  even if the input has changed, keep the previous color if it has already
-  changed once.
+- Change the behavior by ignoring all the clicks after the first one. So even if
+  the input has changed, keep the previous color if it has already changed once.

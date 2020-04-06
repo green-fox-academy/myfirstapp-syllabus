@@ -13,18 +13,19 @@ is pretty easy to listen to events with jQuery:
 $(selector).on(eventType, function);
 ```
 
-Above, you have to use a valid css *selector* and of predefined *eventTypes*.
-The most common *events* are `click` and `submit`. The last parameter is the
-action you want to perform upon the user interacted with your page.
+Above, you have to use a valid css *selector* and one of jQuery's predefined
+*eventTypes*. The most common *events* are `click` and `submit`. The last
+parameter is the action you want to perform upon the user interacted with your
+page.
 
 ## Exercise 1
 
 - Create a webpage
-- Add a button to you body
+- Add a button to the body
 - Insert jQuery
-- Add a script at the end of you body
+- Add a script at the end of the body
   - Add an event listener to the button
-  - Log 'Yeah, you clicked on me' to console when the user clicks on the button
+  - Log 'Yeah, you clicked me' to the console when the user clicks on the button
 
 ## Exercise 2
 

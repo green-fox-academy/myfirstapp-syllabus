@@ -1,8 +1,8 @@
 # Intro to jQuery
 
-There are many common problems in a webpage and don't want to solve them again
-and again. This is why we have frameworks and libraries which provide you these
-solutions out of the box.
+There are many common problems in a webpage and we don't want to solve them
+again and again. This is why we have frameworks and libraries which provide you
+these solutions out of the box.
 
 jQuery is a library which perfect for smaller pages, later on you would consider
 to use a more robust framework like React or Angular.
@@ -31,7 +31,8 @@ $('#ŧitle').text('My new title');
 - Get your solution of the [first exercise][first-html-exercise] from the html
   day
 - Create a `scripts.js` file in the same folder as the `index.html`
-- Include `jQuery` and your script file at the end of the HTML file, before the closing `<body>` tag
+- Include `jQuery` and your script file at the end of the HTML file, before the
+  closing `<body>` tag
   ```html
   ...
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -59,11 +60,13 @@ $('#ŧitle').text('My new title');
   - color: purple
   - number: 10
   - word: cool
-- Change the background color of the first box to purple, if the `color` is purple
+- Change the background color of the first box to purple, if the `color` is
+  purple
 - Change the text of the second
   - if the `number` is bigger than 100 to `whoah, that's a big number.`
   - otherwise `just a regular number, please.`
-- Change the text to `Power of DOM` of the third if the `word` is cool, otherwise change the fourth one
+- Change the text to `Power of DOM` of the third if the `word` is cool,
+  otherwise change the fourth one
 
 [first-html-exercise]: https://github.com/green-fox-academy/stayathome-syllabus/blob/master/week01/exercises/velox-zerda-lagopus.md
 [jquery-css]: https://api.jquery.com/css/

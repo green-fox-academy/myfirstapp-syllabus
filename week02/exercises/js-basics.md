@@ -4,17 +4,16 @@ Now we are going to get familiar with variables, types and operators. These are
 the really fundamentals in programming languages, not only in JavaScript,
 however their usage or syntax can slightly vary.
 
-> Note: Now I will show you how these *language constructs* work instead of
-> doable exercises. I suggest you to repeat and play around with everything what
-> you learn in the console. Later on we will see other options to run/execute
-> JavaScript code.
+> Note: Now I will show you how these *language constructs* work. I suggest you
+> to repeat and play around in the console with everything what you learn.
+> Later on we will see other options to run/execute JavaScript code.
 
 ## Comments
 
 In programming languages we have the opportunity to add comments to our code.
 This makes easier to understand complicated parts or for example to add notes
-during learning. Commented lines start with `//` or are between `/*` and `*/`.
-The commented code wont get executed, it is only for the reader.
+during learning. Commented lines start with `//` or placed between `/*` and
+`*/`. The commented code won't get executed, it is only for the reader.
 
 ```js
 // this is an inline comment, the browser will ignore it
@@ -50,7 +49,7 @@ let myVariable = 5;
 
 > **Important**: If you try to declare two variables with the same name
 > (redeclaration), then you will get an error. In this case you need to ignore
-> the *let* keyword or use another variable name.
+> the *let* keyword for the second time or use another variable name.
 
 After a variable has been declared you can change its value any time with the
 `=` sign:
@@ -117,7 +116,7 @@ at least one operand is true.
 | value1 | value2 | result |
 | :----- | ------ | -----: |
 | true   | true   | true   |
-| true   | false  | false  |
+| true   | false  | true   |
 | false  | false  | false  |
 
 ```js
@@ -153,7 +152,7 @@ why did you get that result.
 ##### equals (`===`)
 
 With the equals operator you can check if the operands are equals or not.
-This operator can be  used with all the other types but will always result
+This operator can be used with all the other types but will always result
 a boolean.
 
 ```js
@@ -192,7 +191,7 @@ let result3 = 1 !== 2;
 
 ### Numbers
 
-We have already worked with numbers in the previous exercise. They represents
+We have already worked with numbers in the previous section. They represents
 anything between `-Infinity` and `Infinity` and you can do any operation with
 them what you already did in the elementary school.
 
@@ -201,9 +200,8 @@ them what you already did in the elementary school.
 
 #### Operators
 
-Just like in the math you can do different operations with numbers. In the
-previous exercise we have seen the addition (+), now lets checkout some other
-*operators*.
+Just like in math you can do different operations with numbers. In the previous
+section we have seen the addition (+), now lets checkout some other *operators*.
 
 ##### subtraction (`-`)
 
@@ -226,14 +224,14 @@ let result = 5 * 6;
 ##### division (`/`)
 
 Division is almost the same too, but there is a slight difference. In math,
-you cannot divide by zero. In JavaScript you can get an interesting result.
+you cannot divide by zero. In JavaScript you can get an strange result.
 
 ```js
 let result = 10 / 4;
 // result is 2.5
 
 let result2 = 10 / 0;
-// result2 is -Infinity
+// result2 is Infinity
 ```
 
 ##### modulo (`%`)
@@ -251,9 +249,9 @@ let reminder = 5 % 3;
 - Calculate your age using the console
 - How long was the WW2?
 - How much would you need to pay for 76 Tesla shares?
-- How many seconds in a day?
+- How many seconds do we have in a day?
 - What percentage of the world's population is hungarian?
-- How much bigger is china than the czech republic
+- How much bigger is China than the Czech Republic?
 - If only 7 people can fit into a discord channel and we have 654 participants,
   than how many people will be in the smallest channel?
 
@@ -298,7 +296,7 @@ let greeting = 'Hello ' + name + '!';
 ```
 
 > As you can see the result is the same as with *string template literal*s,
-> these template literals are pretty in JavaScript and preferred over the
+> these template literals are pretty new in JavaScript and preferred over the
 > concatenation
 
 ##### Length (`.length`)
@@ -341,7 +339,8 @@ myVariable = 'apple';
 
 Now we are pretty familiar with variables and their possible values,
 unfortunately they are still not enough to build complex systems so we need to
-extend our knowledge. Lets move on and see how can we compose complex structures with our primitive types.
+extend our knowledge. Lets move on and see how can we compose complex structures
+with our primitive types.
 
 ### Array
 
@@ -391,7 +390,7 @@ console.log(myArray.length); // prints 4
 ### Object
 
 Objects are again sets of boxes, but here you can access the boxes by their
-names (*key*). Objects are used to describe real life entities like a facebook
+names (*key*s). Objects are used to describe real life entities like a facebook
 post, which has a "content", "author", "date" and other attributes.
 
 ```js
