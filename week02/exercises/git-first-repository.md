@@ -5,7 +5,7 @@ layout: default
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/first-repository)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/tags:first-repository/)
 
 ## Step by step
 

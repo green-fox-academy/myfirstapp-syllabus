@@ -5,7 +5,7 @@ layout: default
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/download-pens)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/tags:download-pens/)
 
 ## The Overview
 

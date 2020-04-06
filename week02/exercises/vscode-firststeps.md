@@ -7,7 +7,7 @@ layout: default
 
 ## Help
 
-- [Questions to this exercise](https://stackoverflow.com/c/greenfoxacademy/questions/tagged/vscode-first)
+- [Questions to this exercise](http://askbot.greenfox.academy/questions/tags:vscode-first/)
 
 ## Step by step
 
