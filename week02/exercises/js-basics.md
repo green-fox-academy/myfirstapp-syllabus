@@ -196,6 +196,9 @@ We have already worked with numbers in the previous exercise. They represents
 anything between `-Infinity` and `Infinity` and you can do any operation with
 them what you already did in the elementary school.
 
+> **Extra info**: Some languages have specific types for rational numbers but
+> in JavaScript there is only `number`, regardless to its value.
+
 #### Operators
 
 Just like in the math you can do different operations with numbers. In the
@@ -243,8 +246,16 @@ let reminder = 5 % 3;
 //reminder is 2;
 ```
 
-> **Extra info**: Some languages have specific types for rational numbers but
-> in JavaScript there is only `number`, regardless to its value.
+#### Exercises
+
+- Calculate your age using the console
+- How long was the WW2?
+- How much would you need to pay for 76 Tesla shares?
+- How many seconds in a day?
+- What percentage of the world's population is hungarian?
+- How much bigger is china than the czech republic
+- If only 7 people can fit into a discord channel and we have 654 participants,
+  than how many people will be in the smallest channel?
 
 ### Strings
 
@@ -369,6 +380,14 @@ console.log(myArray.length); // prints 4
 > **Extra Info**: Arrays are powerful and there is a wide [list of actions][mdn-arrays]
 > you can perform on them.
 
+#### Exercises
+
+- Create an array with random names
+- Check if the 3rd name is longer than 5 characters
+- Add one more name to your array
+- Replace the first element with your name
+- Check if the array's has more items than 4
+
 ### Object
 
 Objects are again sets of boxes, but here you can access the boxes by their
@@ -390,6 +409,14 @@ console.log(post.author);    // prints "Bill Gates"
 post.likes = 11043;
 console.log(post.likes); // prints 11043
 ```
+
+#### Exercises
+
+- Create an object which has a field called colors
+  - The colors field should be an array containing random colors
+- Add one more field to the object, named hasManyColors
+  - Its value should be `true` if there are more colors than 3, otherwise it is
+    expected to be `false`
 
 > **Note**: We have more *data structures*, but these two are the most
 > fundamental. They can be found in almost any programming language sometimes
