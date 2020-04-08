@@ -30,7 +30,7 @@ After these steps and a 'loading screen', you will able to see a page like that:
 
 > You can clone the generated repository via GitHub Desktop. Now you don't want to create a new repository, you would like to use an existing one.
 
-Find the `Clone Repository` option, and clone what was generated inside the **green-fox-academy** organization.
+Find the `Clone Repository` option in the File menu or by clicking on the Current Repository and then Add, and clone what was generated inside the **green-fox-academy** organization.
 You will find something like this, clone it:
 
 ![clone window](../assets/classroom/classroom-clone.png)

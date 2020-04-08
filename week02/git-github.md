@@ -38,9 +38,9 @@ layout: default
 
 ### Practice
 
-- [Simplest Selectors](#)
-- [20 boxes](#)
-- [Do the GitHub tutorial](#)
+- [Simplest Selectors](exercises/selectors.md)
+- [Do the GitHub tutorial](exercises/pseudo.md)
+- [20 boxes](exercises/20-boxes.md)
 
 ## Materials
 
