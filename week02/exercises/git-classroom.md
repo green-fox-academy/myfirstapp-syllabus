@@ -41,6 +41,8 @@ Open the project with Visual Studio Code
 
 Open the `README.md` file
 
+> Use the English alphabet, be careful not to use accented letters!
+
 - Add your first name and commit one with a meaningful commit message like: _Add first name_
 - Do the same with your last name
 
@@ -79,3 +81,5 @@ In GitHub it will seem like that:
 
 - Push these commits to the origin
 - Check: Is there a green tick or a red cross for your commit in your origin repository?
+
+> GitHub Classroom's autograding function is a very new feature of GitHub (published at the end of March) which runs tests automatically all of your commits, that is how you get a green tick / red cross. We tried it for the first time with the aim of giving you automatic feedback, so if for some reason you don't get a green tick, and you sure about your answers are correct, just keep going!
