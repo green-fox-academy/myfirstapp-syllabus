@@ -83,3 +83,5 @@ In GitHub it will seem like that:
 - Check: Is there a green tick or a red cross for your commit in your origin repository?
 
 > GitHub Classroom's autograding function is a very new feature of GitHub (published at the end of March) which runs tests automatically all of your commits, that is how you get a green tick / red cross. We tried it for the first time with the aim of giving you automatic feedback, so if for some reason you don't get a green tick, and you sure about your answers are correct, just keep going!
+
+### [Solution repository](https://github.com/green-fox-academy/github-quiz-adamgyulavari)
