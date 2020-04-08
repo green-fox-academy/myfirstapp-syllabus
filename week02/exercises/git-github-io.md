@@ -22,5 +22,8 @@ layout: default
 
 - Commit your changes and push origin (or Publish it if you haven't already)
 - Now you can check ***your-github-name.github.io*** in your browser, and send everyone what you made before :)
+  - Not the repository page on GitHub, but that as address used in the browser
 - Make some change, push again, and check the differences
   - It usually takes a while for GitHub to update the content, so don't be afraid if it doesn't appear immediately
+
+> Note: You can put folders and other solutions into this repository or other HTML files like `solutions.html` and that'll be available at `your-github-name.github.io/solutions.html`. The only thing you have to be careful about is not to put a repository folder into another repository folder. That won't work well. If you've done this by accident in the GitHub Desktop app you'll see that a folder is added but you won't see any changes like for the files. You should not see a folder in the change list ever actually, because even if you add a new folder and files into that, you'll see only the files in the change list with their location (so they're in a folder). In this case just move the repository folder out and copy back just the files from it you need.
