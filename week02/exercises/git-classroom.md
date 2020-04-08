@@ -46,7 +46,7 @@ Open the `README.md` file
 - Add your first name and commit one with a meaningful commit message like: _Add first name_
 - Do the same with your last name
 
-### Check it
+### Check it on GitHub in the browser
 
 - Push these commits to the origin
 - Check: Is there a green tick or a red cross for your commit in your origin repository?
