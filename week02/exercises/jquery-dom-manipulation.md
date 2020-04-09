@@ -40,5 +40,5 @@ method to solve the next exercises
 - Add a new block at the end of the page, the `title` should be in a heading,
   the `text` should be in a paragraph block
 
-[fourth-html-exercise]: https://github.com/green-fox-academy/stayathome-syllabus/blob/master/week01/exercises/lists-and-texts.md
+[fourth-html-exercise]: http://stayathome-syllabus.greenfox.academy/week01/exercises/lists-and-texts.html
 [jquery-append]: https://api.jquery.com/append/

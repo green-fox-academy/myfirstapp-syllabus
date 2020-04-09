@@ -249,14 +249,14 @@ let reminder = 5 % 3;
 
 #### Exercises
 
-- Calculate your age using the console
-- How long was the WW2?
-- How much would you need to pay for 76 Tesla shares?
-- How many seconds do we have in a day?
-- What percentage of the world's population is hungarian?
-- How much bigger is China than the Czech Republic?
+- Calculate your age using the console and store it in a variable called `age`
+- How long was the WW2? Store it in a variable called `ww2`
+- How much would you need to pay for 76 Tesla shares? Store it in a variable called `tesla`
+- How many seconds do we have in a day? Store it in a variable called `secondsOfDay`
+- What percentage of the world's population is hungarian? Store it in a variable called `hungarians`
+- How much bigger is China than the Czech Republic? Store it in a variable `bigger`
 - If only 7 people can fit into a discord channel and we have 654 participants,
-  than how many people will be in the smallest channel?
+  than how many people will be in the smallest channel? Store it in `participants`
 
 ### Strings
 
@@ -315,6 +315,24 @@ let charCount = 'Hello'.length;
 What do you think, how many characters do we have in "Hello world"? Let's try it
 and think through the result.
 
+##### comparison
+
+You can also compare two strings or two numbers or two anything if they are the same
+using the `===` sign, just like with booleans. The result of these always
+going to be a boolean either it is a `true` statement or `false`.
+
+Try to guess the values of the `trueOrFalse` variable in the next example
+(but you can try it in the console as well):
+
+```js
+let trueOrFalse = 5 === 5;
+trueOrFalse = 100 < 50;
+trueOrFalse = 'hello' !== 'world';
+trueOrFalse = 1 >= 2;
+trueOrFalse = 'blue'.length === 'green'.length;
+trueOrFalse = 3 < 4 && (5 > 6 || 7 < 8);
+```
+
 ### (Optional) Weakly typed programming languages
 
 JavaScript is a weakly typed programming language which means it will convert
@@ -352,7 +370,7 @@ and then you can access the boxes by their index (order).
 
 ```js
 let myArray = [3, 5, 6, 2, 22];
-// myArray[1] === 5
+// myArray[1] is going to be 5
 ```
 
 > **Note**: Array indexes are zero-based, the first index is 0
@@ -384,7 +402,7 @@ console.log(myArray.length); // prints 4
 
 #### Exercises
 
-- Create an array with random names
+- Create an array with some names you choose, store it in a variable called `names`
 - Check if the 3rd name is longer than 5 characters
 - Add one more name to your array
 - Replace the first element with your name

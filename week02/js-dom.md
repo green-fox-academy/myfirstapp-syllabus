@@ -35,6 +35,9 @@ layout: default
 
 ## Materials
 
+- [Material Review Topics](js-dom-topics.md)
+- [Cheat Sheet](js-cheat-sheet.md)
+
 | Material                                                                  |  Time |
 | :------------------------------------------------------------------------ | ----: |
 |[Javascript Tutorial - Programming Tutorial for Beginners Pt 1][js-basics] | 13:34 |

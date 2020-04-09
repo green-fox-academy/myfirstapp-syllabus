@@ -46,3 +46,10 @@ working on the script.
 
 Now add a script to an html document from within you print the sum of two
 numbers.
+
+### Exercise
+
+- Add a script file to any of your previous HTML solutions
+- Log your name to the console in the script file
+- Open the HTML with Live Server
+- Check the Developer console in the browser

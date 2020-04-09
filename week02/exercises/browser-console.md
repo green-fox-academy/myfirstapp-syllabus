@@ -11,7 +11,7 @@ The console is part of the developer tools, so first you will need to launch the
 Dev Tools, You can do this by many different ways, based on your operating
 system and browser. Some of the common options are
 
-- Pressing the `F12` button
+- Pressing the `F12` button (Cmd+Alt+I on a Mac)
 - Right click on the page then `Inspect Element`
 - You may find related options at the menu bar of your browsers as well.
 

@@ -59,7 +59,7 @@ life when you want to move books from one shelf to another.
 - you move it to the other shelf
 - you release the book
 
-And you do this until you have books to move.
+And you do this until you have books to move. For example if you have 10 books:
 
 ```js
 let bookCount = 10;
@@ -115,7 +115,7 @@ printNumbersTill(15); // should print 1, 1, 2, ...., 15
 
 ### Exercise 2
 
-Create a method which gets a name as parameter and then returns a greeting to
+Create a function which gets a name as parameter and then returns a greeting to
 the specified person.
 
 ```js
@@ -131,7 +131,7 @@ print an array's values we will need to execute the loop `.length` times.
 
 ### Exercise 1
 
-Create a method which gets an array as parameter and prints each value from it.
+Create a function which gets an array as parameter and prints each value from it.
 
 ```js
 printValues([0, 3, 6, 7, 9]); // prints the following lines:

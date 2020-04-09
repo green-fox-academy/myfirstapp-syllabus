@@ -71,6 +71,6 @@ $('#ŧitle').text('My new title');
 - Change the text to `Power of DOM` of the third if the `word` is cool,
   otherwise change the fourth one
 
-[first-html-exercise]: https://github.com/green-fox-academy/stayathome-syllabus/blob/master/week01/exercises/velox-zerda-lagopus.md
+[first-html-exercise]: http://stayathome-syllabus.greenfox.academy/week01/exercises/velox-zerda-lagopus.html
 [jquery-css]: https://api.jquery.com/css/
-[second-html-exercise]: https://github.com/green-fox-academy/stayathome-syllabus/blob/master/week01/exercises/directions.md
+[second-html-exercise]: http://stayathome-syllabus.greenfox.academy/week01/exercises/directions.html
