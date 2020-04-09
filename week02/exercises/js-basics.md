@@ -445,5 +445,7 @@ console.log(post.likes); // prints 11043
 After you are familiar with everything above and you've tried them out you can
 move on to the next exercise.
 
+[Solution Pen](https://codepen.io/adamgyulavari/pen/VwvwxLd?editors=1010)
+
 [mdn-declarations]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations
 [mdn-arrays]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array

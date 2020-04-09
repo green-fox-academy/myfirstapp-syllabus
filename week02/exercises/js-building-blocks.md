@@ -171,4 +171,6 @@ myNumbers.forEach((number) => {
 
 Change your previous `printValues` function to use `forEach` loop.
 
+[Solution Pen](https://codepen.io/adamgyulavari/pen/JjYjvNL?editors=1010)
+
 [mdn-if]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else

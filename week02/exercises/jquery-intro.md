@@ -53,6 +53,8 @@ $('#ŧitle').text('My new title');
 > **Hint**: you might need to know out [how to change the style][jquery-css]
 > of an element with jQuery
 
+[Solution pen](https://codepen.io/adamgyulavari/pen/GRpRdya)
+
 ## Exercise 2
 
 - Get your solution of the [second exercise][second-html-exercise] from the
@@ -70,6 +72,8 @@ $('#ŧitle').text('My new title');
   - otherwise `just a regular number, please.`
 - Change the text to `Power of DOM` of the third if the `word` is cool,
   otherwise change the fourth one
+
+[Solution pen](https://codepen.io/adamgyulavari/pen/yLYLjjM)
 
 [first-html-exercise]: http://stayathome-syllabus.greenfox.academy/week01/exercises/velox-zerda-lagopus.html
 [jquery-css]: https://api.jquery.com/css/

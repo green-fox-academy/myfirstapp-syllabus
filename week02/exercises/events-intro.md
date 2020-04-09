@@ -21,6 +21,18 @@ Above, you have to use a valid css *selector* and one of jQuery's predefined
 parameter is the action you want to perform upon the user interacted with your
 page.
 
+But in jQuery for the very common `click` event, you can use a more simple form:
+
+```js
+$('p').on('click', () => {
+  // do something
+});
+
+$('p').click(() => {
+  // it's the same as before
+})
+```
+
 ## Exercise 1
 
 - Create a webpage
@@ -40,3 +52,5 @@ page.
 - Add a third button to the webpage
 - When the user clicks on the last button, change the `background-color` of each
   button
+
+[Solution pen](https://codepen.io/adamgyulavari/pen/vYNYjvw)
