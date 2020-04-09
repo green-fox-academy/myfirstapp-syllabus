@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Todo list
 
 ![Todo list](../assets/todo.png)

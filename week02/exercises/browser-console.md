@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Console in the browser
 
 > The console is a tool in the browser where you can run JavaScript code

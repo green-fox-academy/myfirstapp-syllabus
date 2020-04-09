@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Add some fun feature to your Event Listeners
 
 ## Exercise 1

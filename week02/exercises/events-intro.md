@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Events & Event Listeners
 
 So far you can create a website which has some elements and maybe after the page

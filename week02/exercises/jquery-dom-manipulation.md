@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Manipulate the DOM with jQuery
 
 With jQuery you can not only change elements' style but also creating new ones

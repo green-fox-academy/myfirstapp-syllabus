@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Basic building blocks in JavaScript
 
 Now lets see how can we do complex applications with our variables and types

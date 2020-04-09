@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # JavaScript and DOM basics
 
 ## Help

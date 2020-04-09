@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Intro to jQuery
 
 There are many common problems in a webpage and we don't want to solve them

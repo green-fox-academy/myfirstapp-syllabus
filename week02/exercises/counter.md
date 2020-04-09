@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Counter
 
 ![Counter](../assets/counter.png)

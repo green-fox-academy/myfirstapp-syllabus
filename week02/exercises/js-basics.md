@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Variables, Types and Expressions in JavaScript
 
 Now we are going to get familiar with variables, types and operators. These are

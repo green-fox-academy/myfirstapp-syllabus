@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Adding JavaScript to a webpage
 
 With the console we can immediately run a piece of JavaScript code, but as soon
