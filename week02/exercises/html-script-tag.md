@@ -4,7 +4,7 @@ layout: default
 # Adding JavaScript to a webpage
 
 With the console we can immediately run a piece of JavaScript code, but as soon
-as we refresh the browser we will loose everything what we have written. For
+as we refresh the browser we will lose everything what we have written. For
 webpages there is another solution to run JavaScript code, we can insert the
 script into the html document.
 
