@@ -1,10 +1,12 @@
 # My first web application
 
-This week you'll work on a small web application that works similar to an image slider and displays images with their titles and descriptions.
+This week you'll work on a small web application that works similar to an image slider and displays images with their titles and descriptions. Below you'll find a full description part to tell you how the application should work when it is fully ready. You can leave out more complicated things if you want, and there's a day-by-day recommendation after it that can guide you in the coding. It is just a guide though, you can move forward slower or quicker as it suits you.
 
 ## The overview
 
 ![Gallery mockup](assets/slider.png)
+
+## Full specification
 
 ### Before you start to code
 
@@ -16,7 +18,7 @@ This week you'll work on a small web application that works similar to an image 
 
 ### Layout and behaviour specification
 
-- You can change the desing if you want, but the point is that it should be looking nice
+- You can change the design if you want, but the point is that it should be looking nice
 - It should be in the middle of the screen, with fixed size
 - The gallery's content should be divided into two main parts: to the photo
   viewer and to the thumbnails.
@@ -131,6 +133,7 @@ $('#right-arrow').click(() => {
 
 ### Fifth day
 
+- Highlight the thumbnail that is showing (extend the `loadPhoto` function)
 - Create the hovering title over the thumbnail
 - This can be done by positioning the title and hiding it by default, only display it when the thumbnail is hovered
 - Add anything else you'd like :)
