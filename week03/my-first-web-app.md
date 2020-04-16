@@ -118,6 +118,7 @@ $('#right-arrow').click(() => {
 ```
 
 - Make sure that the `currentPhoto` can't go higher than length of your photos array (and lower than 0)
+- [Hint pen](https://codepen.io/adamgyulavari/pen/OJyMGXj?editors=1010)
 
 ### Fourth day
 
@@ -130,12 +131,14 @@ $('#right-arrow').click(() => {
   - The easiest way of doing that is to put that into the HTML element when creating them
   - Usually you can put any custom needed information into elements using the `data-` attributes, like `data-number="1"`
   - Then you can access this information with `$(event.target).attr('data-number')`
+  - [Hint pen](https://codepen.io/adamgyulavari/pen/XWmXGvO?editors=1010)
 
 ### Fifth day
 
 - Highlight the thumbnail that is showing (extend the `loadPhoto` function)
 - Create the hovering title over the thumbnail
 - This can be done by positioning the title and hiding it by default, only display it when the thumbnail is hovered
+  - [Hint pen](https://codepen.io/adamgyulavari/pen/QWjyjwd)
 - Add anything else you'd like :)
 
 ## Going Further
