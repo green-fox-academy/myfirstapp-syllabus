@@ -39,7 +39,7 @@ layout: default
 ### Practice
 
 - [Simplest Selectors](exercises/selectors.md)
-- [Do the GitHub tutorial](exercises/pseudo.md)
+- [Practice pseudo selectors](exercises/pseudo.md)
 - [20 boxes](exercises/20-boxes.md)
 
 ## Materials

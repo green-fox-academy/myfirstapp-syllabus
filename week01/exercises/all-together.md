@@ -22,3 +22,5 @@ layout: default
     - `blue`: Footer
 
 ![all together](assets/all.jpg)
+
+### [Solution pen](https://codepen.io/adamgyulavari/pen/mdeOZzG?editors=1100)

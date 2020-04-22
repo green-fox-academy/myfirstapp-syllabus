@@ -42,3 +42,5 @@ Styling them is exactly the same as for other tags, but there are a few list spe
 - Style the headers in CSS
 - Assign classes to the styled list items (underlined and colored) in HTML
 - Style the classes in CSS
+
+### [Solution pen](https://codepen.io/adamgyulavari/pen/oNjYree?editors=1100)
