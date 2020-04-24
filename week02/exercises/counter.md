@@ -11,3 +11,5 @@ layout: default
 - (Optional) Create a working decreasing button as well
 - (Hint) Any content of an HTML element is going to be a string
 - (Hint) You can store the number in a variable
+
+### [Solution pen](https://codepen.io/adamgyulavari/pen/zYvZZJP?editors=1010)

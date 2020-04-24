@@ -37,3 +37,5 @@ $('.todos-container').on('click', '.delete-button', (event) => {
 ```
 
 - You can read more about how this works [here](https://api.jquery.com/on/)
+
+### [Solution pen](https://codepen.io/adamgyulavari/pen/qBOrrQy)
