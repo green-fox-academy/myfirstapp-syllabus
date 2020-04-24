@@ -66,7 +66,7 @@ let bookCount = 10;
 
 for (let i = 0; i < bookCount; i++) {
   // here comes the code which moves the books
-  // this block will be repeated bookCunt times
+  // this block will be repeated bookCount times
 }
 ```
 
